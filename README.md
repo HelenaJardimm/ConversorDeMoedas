@@ -164,30 +164,9 @@ As informações que compartilhei são baseadas em conceitos comuns de JavaScrip
 
 MDN Web Docs (Mozilla Developer Network):
 
-https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
-https://developer.mozilla.org/pt-BR/docs/Web/API/Document_Object_Model
-https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element
-https://developer.mozilla.org/pt-BR/docs/Web/CSS
+https://developer.mozilla.org/pt-BR/docs/Web/JavaScript  
+https://developer.mozilla.org/pt-BR/docs/Web/API/Document_Object_Model  
+https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element  
+https://developer.mozilla.org/pt-BR/docs/Web/CSS  
 
 Essas fontes oferecem tutoriais, exemplos e uma boa base teórica sobre os conceitos usados na aplicação de conversão de moedas. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
