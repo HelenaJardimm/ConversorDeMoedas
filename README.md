@@ -40,8 +40,9 @@ Aqui, o valor (amount) é multiplicado pela taxa de câmbio correspondente, que 
 exchangeRates[fromCurrency][toCurrency] obtém a taxa de câmbio do valor em fromCurrency para toCurrency.    
 
 ## Resumo:
-A função convertCurrency é uma implementação simples para converter valores entre diferentes moedas. Ela verifica se não há necessidade de conversão (quando as moedas são iguais) e, em caso contrário, utiliza a taxa de câmbio pré-definida para calcular e retornar o valor convertido. Essa lógica é fundamental para a funcionalidade da aplicação de conversão de moedas.  
-![print-2](img/print-2) 
+A função convertCurrency é uma implementação simples para converter valores entre diferentes moedas. Ela verifica se não há necessidade de conversão (quando as moedas são iguais) e, em caso contrário, utiliza a taxa de câmbio pré-definida para calcular e retornar o valor convertido. Essa lógica é fundamental para a funcionalidade da aplicação de conversão de moedas.    
+
+![print-2](img/print-2.PNG)   
 
 ## Elementos dos dom
 
@@ -146,7 +147,7 @@ A propriedade textContent do elemento resultDisplay é atualizada com a mensagem
 ## Resumo:
 Este trecho é responsável por apresentar o resultado da conversão de forma clara e formatada. Ele garante que os valores monetários sejam exibidos com duas casas decimais e que a mensagem seja compreensível para o usuário, mostrando tanto o valor original quanto o convertido, juntamente com as moedas correspondentes. Essa etapa finaliza o processo de conversão, tornando os resultados visíveis para quem está utilizando a aplicação.
 
-![print-8](img/print-8.PNG)
+![print-8](img/print-8.PNG)    
 
 ## o evento de reset do formulário.
 
@@ -170,3 +171,7 @@ https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element
 https://developer.mozilla.org/pt-BR/docs/Web/CSS  
 
 Essas fontes oferecem tutoriais, exemplos e uma boa base teórica sobre os conceitos usados na aplicação de conversão de moedas. 
+
+Este projeto foi produzido por:   
+https://github.com/biacosta0  
+https://github.com/HelenaJardimm 
