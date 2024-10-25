@@ -1,11 +1,11 @@
 ## Descrição Geral do Projeto  
-Objetivo: O principal objetivo deste projeto é que um grupo de estudantes desenvolva uma aplicação web simples para conversão de moedas. Essa aplicação vai permitir que os usuários insiram um valor em uma moeda e recebam o valor convertido em outra moeda, usando taxas de câmbio definidas diretamente no código.  
+Objetivo: Esse projeto vai permitir que os usuários insiram um valor em uma moeda e recebam o valor convertido em outra moeda, usando taxas de câmbio definidas diretamente no código.  
 
 Tecnologias a serem utilizadas:  
 HTML5: Para estruturar a página da aplicação, criando formulários e elementos visuais.  
 CSS3: Para estilizar a página, tornando-a visualmente atraente e fácil de usar.  
-JavaScript (puro): Para implementar a lógica de conversão de moedas, permitindo que a aplicação funcione interativamente.   
-
+JavaScript (puro): Para implementar a lógica de conversão de moedas, permitindo que a aplicação funcione interativamente.
+   
 ## Constante exchangeRates
 Aqui, estamos declarando uma constante chamada exchangeRates, que armazena as taxas de câmbio entre diferentes moedas.  
 O uso da palavra-chave const significa que a variável não pode ser reatribuída, ou seja, as taxas de câmbio são fixas.  
